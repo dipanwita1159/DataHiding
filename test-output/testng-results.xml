@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-29T17:53:15 IST" name="Suite" finished-at="2023-05-29T17:54:15 IST" duration-ms="60233">
+    <groups>
+    </groups>
+    <test started-at="2023-05-29T17:53:15 IST" name="Test" finished-at="2023-05-29T17:54:11 IST" duration-ms="55633">
+      <class name="com.mohs10.scripts.HomeTest">
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:com.mohs10.scripts.HomeTest@74f0ea28]" started-at="2023-05-29T17:53:15 IST" name="generateReport" finished-at="2023-05-29T17:53:15 IST" duration-ms="487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.mohs10.scripts.HomeTest@74f0ea28]" started-at="2023-05-29T17:53:15 IST" name="beforeClass" finished-at="2023-05-29T17:53:20 IST" duration-ms="4962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.scripts.HomeTest@74f0ea28]" started-at="2023-05-29T17:53:20 IST" name="methodName" finished-at="2023-05-29T17:53:20 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.scripts.HomeTest.LoginTestCase3() throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="LoginTestCase3()[pri:0, instance:com.mohs10.scripts.HomeTest@74f0ea28]" started-at="2023-05-29T17:53:20 IST" name="LoginTestCase3" finished-at="2023-05-29T17:54:09 IST" duration-ms="48217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTestCase3 -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.mohs10.scripts.HomeTest@74f0ea28]" started-at="2023-05-29T17:54:09 IST" name="afterClass" finished-at="2023-05-29T17:54:11 IST" duration-ms="1930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.mohs10.scripts.HomeTest -->
+    </test> <!-- Test -->
+    <test started-at="2023-05-29T17:54:11 IST" name="PDFReport" finished-at="2023-05-29T17:54:15 IST" duration-ms="4585">
+      <class name="com.mohs10.Report.PDFReportTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.mohs10.Report.PDFReportTest@c730b35]" started-at="2023-05-29T17:54:11 IST" name="beforeClass" finished-at="2023-05-29T17:54:13 IST" duration-ms="2715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="generateReport()[pri:0, instance:com.mohs10.Report.PDFReportTest@c730b35]" started-at="2023-05-29T17:54:11 IST" name="generateReport" finished-at="2023-05-29T17:54:11 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generateReport -->
+        <test-method is-config="true" signature="methodName(java.lang.reflect.Method)[pri:0, instance:com.mohs10.Report.PDFReportTest@c730b35]" started-at="2023-05-29T17:54:13 IST" name="methodName" finished-at="2023-05-29T17:54:13 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.mohs10.Report.PDFReportTest.PDFreports() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method signature="PDFreports()[pri:0, instance:com.mohs10.Report.PDFReportTest@c730b35]" started-at="2023-05-29T17:54:13 IST" name="PDFreports" finished-at="2023-05-29T17:54:15 IST" duration-ms="1811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PDFreports -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.mohs10.Report.PDFReportTest@c730b35]" started-at="2023-05-29T17:54:15 IST" name="afterClass" finished-at="2023-05-29T17:54:15 IST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.mohs10.Report.PDFReportTest -->
+    </test> <!-- PDFReport -->
+  </suite> <!-- Suite -->
+</testng-results>
