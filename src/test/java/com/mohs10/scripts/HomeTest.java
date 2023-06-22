@@ -11,7 +11,7 @@ import com.mohs10.reuse.CommonFuns;
 
 public class HomeTest extends StartBrowser {
 
-	String excelFilePath = "C:\\Users\\DELL\\eclipse-workspace\\Superadmin\\TestData\\Data.xlsx";
+	String excelFilePath = "TestData\\Data.xlsx";
 	String excelsheet = "Login";
 
 	@Test
